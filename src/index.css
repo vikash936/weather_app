@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', Arial !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: aliceblue;
+  background:  url(../public/icons/green-grassy-park-field-outdoors-concept.jpg) no-repeat  top   ;
+  background-size: 250vh 100vh;
+  
+  
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
